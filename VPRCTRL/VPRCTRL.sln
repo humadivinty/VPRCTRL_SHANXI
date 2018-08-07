@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VPRCTRL", "VPRCTRL\VPRCTRL.vcxproj", "{906C4C95-282E-4B63-957E-CBB4DDA26B20}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VPRCTRL_TestTool", "VPRCTRL_TestTool\VPRCTRL_TestTool.vcxproj", "{DD432D64-7729-482A-974E-FB85A0B6F3D3}"
+	ProjectSection(ProjectDependencies) = postProject
+		{906C4C95-282E-4B63-957E-CBB4DDA26B20} = {906C4C95-282E-4B63-957E-CBB4DDA26B20}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{906C4C95-282E-4B63-957E-CBB4DDA26B20}.Debug|Win32.ActiveCfg = Debug|Win32
+		{906C4C95-282E-4B63-957E-CBB4DDA26B20}.Debug|Win32.Build.0 = Debug|Win32
+		{906C4C95-282E-4B63-957E-CBB4DDA26B20}.Release|Win32.ActiveCfg = Release|Win32
+		{906C4C95-282E-4B63-957E-CBB4DDA26B20}.Release|Win32.Build.0 = Release|Win32
+		{DD432D64-7729-482A-974E-FB85A0B6F3D3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DD432D64-7729-482A-974E-FB85A0B6F3D3}.Debug|Win32.Build.0 = Debug|Win32
+		{DD432D64-7729-482A-974E-FB85A0B6F3D3}.Release|Win32.ActiveCfg = Release|Win32
+		{DD432D64-7729-482A-974E-FB85A0B6F3D3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

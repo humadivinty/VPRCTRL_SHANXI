@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes" ?>
+<CarFace>
+	<LogoName>其它</LogoName>
+	<LogoType>0</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>大众</LogoName>
+	<LogoType>1</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>别克</LogoName>
+	<LogoType>2</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>宝马</LogoName>
+	<LogoType>3</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>本田</LogoName>
+	<LogoType>4</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>标致</LogoName>
+	<LogoType>5</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>丰田</LogoName>
+	<LogoType>6</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>福特</LogoName>
+	<LogoType>7</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>日产</LogoName>
+	<LogoType>8</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>奥迪</LogoName>
+	<LogoType>9</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>马自达</LogoName>
+	<LogoType>10</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>雪佛兰</LogoName>
+	<LogoType>11</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>雪铁龙</LogoName>
+	<LogoType>12</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>现代</LogoName>
+	<LogoType>13</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>奇瑞</LogoName>
+	<LogoType>14</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>起亚</LogoName>
+	<LogoType>15</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>荣威</LogoName>
+	<LogoType>16</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>三菱</LogoName>
+	<LogoType>17</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>斯柯达</LogoName>
+	<LogoType>18</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>吉利</LogoName>
+	<LogoType>19</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>中华</LogoName>
+	<LogoType>20</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>沃尔沃</LogoName>
+	<LogoType>21</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>雷克萨斯</LogoName>
+	<LogoType>22</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>菲亚特</LogoName>
+	<LogoType>23</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>帝豪</LogoName>
+	<LogoType>24</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>东风</LogoName>
+	<LogoType>25</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>比亚迪</LogoName>
+	<LogoType>26</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>铃木</LogoName>
+	<LogoType>27</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>金杯</LogoName>
+	<LogoType>28</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>海马</LogoName>
+	<LogoType>29</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>五菱</LogoName>
+	<LogoType>30</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>江淮</LogoName>
+	<LogoType>31</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>斯巴鲁</LogoName>
+	<LogoType>32</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>英伦</LogoName>
+	<LogoType>33</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>长城</LogoName>
+	<LogoType>34</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>哈飞</LogoName>
+	<LogoType>35</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>五十铃</LogoName>
+	<LogoType>36</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>东南</LogoName>
+	<LogoType>37</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>长安</LogoName>
+	<LogoType>38</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>福田</LogoName>
+	<LogoType>39</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>夏利</LogoName>
+	<LogoType>40</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>奔驰</LogoName>
+	<LogoType>41</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>一汽</LogoName>
+	<LogoType>42</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>依维柯</LogoName>
+	<LogoType>43</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>力帆</LogoName>
+	<LogoType>44</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>一汽奔腾</LogoName>
+	<LogoType>45</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>皇冠</LogoName>
+	<LogoType>46</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>雷诺</LogoName>
+	<LogoType>47</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>JMC</LogoName>
+	<LogoType>48</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>MG 名爵</LogoName>
+	<LogoType>49</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>凯马</LogoName>
+	<LogoType>50</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>众泰</LogoName>
+	<LogoType>51</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>昌河</LogoName>
+	<LogoType>52</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>厦门金龙</LogoName>
+	<LogoType>53</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>上海汇众</LogoName>
+	<LogoType>54</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>苏州金龙</LogoName>
+	<LogoType>55</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>海格</LogoName>
+	<LogoType>56</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>宇通</LogoName>
+	<LogoType>57</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>中国重汽</LogoName>
+	<LogoType>58</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>北奔重卡</LogoName>
+	<LogoType>59</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>华菱星马</LogoName>
+	<LogoType>60</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>跃进</LogoName>
+	<LogoType>61</LogoType>
+</CarFace>
+<CarFace>
+	<LogoName>黄海</LogoName>
+	<LogoType>62</LogoType>
+</CarFace>

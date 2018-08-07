@@ -1,0 +1,8 @@
+LIBRARY
+EXPORTS
+
+VPR_Init
+VPR_RegCallBack
+VPR_GetDeviceState
+VPR_AdjustTime
+VPR_Quit

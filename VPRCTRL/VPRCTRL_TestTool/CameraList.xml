@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes" ?>
+<Camera>
+	<IpAddress>172.18.100.74</IpAddress>
+	<Index>1</Index>
+</Camera>
+<Camera>
+	<IpAddress>172.18.96.73</IpAddress>
+	<Index>2</Index>
+</Camera>
+<Camera>
+	<IpAddress>172.18.96.189</IpAddress>
+	<Index>5</Index>
+</Camera>
